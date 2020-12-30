@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30px"></h2>
+<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30px"></h2>
 </div>
 <p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <br>
@@ -26,4 +26,4 @@
 <h3> Top Languages used </h3>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical)
-![alt text](./images/bottom.svg)
+![alt text](./images/bottom.png)
