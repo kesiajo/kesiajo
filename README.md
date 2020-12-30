@@ -1,3 +1,5 @@
+![alt text](./images/top.svg)
+
 ### Hi there 👋
 <p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
 
@@ -13,11 +15,12 @@
 
 
 <br>
-## Github stats
+<h3> Github stats </h3>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true)
 
 <br>
-## Top Languages used
+<h3> Top Languages used </h3>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical)
+![alt text](./images/bottom.svg)
