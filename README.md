@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**kesiajo/kesiajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<br>
+## Github stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true)
+
+<br>
+## Top Languages used
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical)
