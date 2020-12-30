@@ -19,9 +19,11 @@
 
 <h3> Top Languages used </h3>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact)]
 
 <br>
 <h3> Github stats </h3>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true)   
+
 ![alt text](./images/bottom.png)
