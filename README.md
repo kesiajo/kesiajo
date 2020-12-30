@@ -1,4 +1,9 @@
-### Hi there 👋
+![alt text](./images/top.png)
+
+
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30px"></h2>
+</div>
 <p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
 
 - 🔭 I’m currently working on ...
