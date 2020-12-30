@@ -24,6 +24,5 @@
 
 <br>
 <h3> Top Languages used </h3>
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&layout=compact&theme=radical)](https://github.com/kesiajo/github-readme-stats)
 ![alt text](./images/bottom.png)
