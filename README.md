@@ -1,5 +1,3 @@
-![alt text](./images/top.svg)
-
 ### Hi there 👋
 <p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
 
