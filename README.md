@@ -1,9 +1,9 @@
 <img align="right" src="./images/tenor.gif">
 <div align="center">
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30px"></h2>
-
-<a href= "https://www.linkedin.com/in/kesia-joies/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kesia-joies/">
-<a href= "mailto:kesiajoies@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kesiajoies@gmail.com"> 
+<div align="center">
+<a href= "https://www.linkedin.com/in/kesia-joies/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kesia-joies/"> </a>
+<a href= "mailto:kesiajoies@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kesiajoies@gmail.com"> </a>
 </div>
 
 <p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
