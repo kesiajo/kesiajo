@@ -1,4 +1,4 @@
-![alt text](./images/top.png)
+<img align="right" src="./images/tenor.gif">
 
 
 <div align="center">
