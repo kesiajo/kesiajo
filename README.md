@@ -1,11 +1,11 @@
 <div align="center">
-<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30px"></h2>
+<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30px"></h2> </div>
 <div align="center">
 <a href= "https://www.linkedin.com/in/kesia-joies/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kesia-joies/"> </a>
 <a href= "mailto:kesiajoies@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kesiajoies@gmail.com"> </a>
 </div>
 
-<p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. <br> I’m Mobile App Developer Enthusiast, and skilled in Python and C programming. I love exploring and learning different technologies and I can work effectively in a team.</p>
+<p align="center"> I'm Kesia, a Mobile App Developer Enthusiast. <br> I love exploring and learning different technologies and I can work effectively in a team. I am currently passionated in participating in hackathons and competitions.</p>
 <img align="right" src="./images/tenor.gif">
 
 ``` python
@@ -18,11 +18,14 @@ class Github():
     self.last_name  = 'Joies'
     
   def imterests():
-    se
+    self.interest2 = "App Development"
+    self.interest3 = "Web Development"
+    self.interest3 = "Coding, of course!"
     
 
 if ___name__ == "main":
   print "Coding is my passion"
+  kesia = Github()
 ``` 
 <!--
 - 🔭 I’m currently working on 
@@ -36,7 +39,7 @@ if ___name__ == "main":
 
 <br>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact">
 
   
 
