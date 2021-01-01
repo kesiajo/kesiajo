@@ -39,4 +39,4 @@ if ___name__ == "main":
 
 <br>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact">
