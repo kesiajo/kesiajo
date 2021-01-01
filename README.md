@@ -16,16 +16,14 @@ class Github():
   def __init__(self):
     self.first_name = 'Kesia'
     self.last_name  = 'Joies'
-    
-  def imterests(self):
-    self.interest1 = "App Development"
-    self.interest2 = "Web Development"
-    self.interest3 = "Coding, of course!"
-    
-
-if ___name__ == "main":
-  print "Coding is my passion"
+    self.interest = {1: "App Development", 2: "Web Development", 3: "Coding, of course!"}
+ 
+  def interests(self):
+    return(self.interest.values())
+ 
+if __name__ == "__main__":
   kesia = Github()
+  print(kesia.interests())
 ``` 
 <!--
 - 🔭 I’m currently working on 
