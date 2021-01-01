@@ -6,7 +6,7 @@
 </div>
 
 <p align="center"> I'm Kesia, a Mobile App Developer Enthusiast. <br> I love exploring and learning different technologies and I can work effectively in a team. I am currently passionated in participating in hackathons and competitions.</p>
-<img align="right" src="./images/tenor.gif">
+<img align="right" width="200" height="200" src="./images/tenor.gif">
 
 ``` python
 from profile import kesiajo
