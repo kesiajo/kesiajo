@@ -38,5 +38,9 @@ if ___name__ == "main":
 - ⚡ Fun fact: ... -->
 
 <br>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact">
+<p align="center">
+<a href="https://github.com/kesiajo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&include_all_commits=true&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact"/>
+</a>
+</p>
