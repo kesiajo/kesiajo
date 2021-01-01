@@ -5,7 +5,7 @@
 <a href= "mailto:kesiajoies@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kesiajoies@gmail.com"> </a>
 </div>
 
-<p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
+<p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. <br> I’m Mobile App Developer Enthusiast, and skilled in Python and C programming. I love exploring and learning different technologies and I can work effectively in a team.</p>
 <img align="right" src="./images/tenor.gif">
 
 ``` python
@@ -24,18 +24,15 @@ class Github():
 if ___name__ == "main":
   print "Coding is my passion"
 ``` 
-
-
-
-
-- 🔭 I’m currently working on ...
+<!--
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 <br>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true">
