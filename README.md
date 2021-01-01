@@ -8,7 +8,8 @@
 <p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
 <img align="right" src="./images/tenor.gif">
 <p align = "left">
-<code>
+
+``` python
 from profile import kesiajo
 
 class Github():
@@ -23,7 +24,8 @@ class Github():
 
 if ___name__ == "main":
   print "Coding is my passion"
-</code> </p>
+``` 
+</p>
 
 
 
