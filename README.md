@@ -18,8 +18,8 @@ class Github():
     self.last_name  = 'Joies'
     
   def imterests():
-    self.interest2 = "App Development"
-    self.interest3 = "Web Development"
+    self.interest1 = "App Development"
+    self.interest2 = "Web Development"
     self.interest3 = "Coding, of course!"
     
 
