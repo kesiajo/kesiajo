@@ -1,4 +1,3 @@
-<img align="right" src="./images/tenor.gif">
 <div align="center">
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30px"></h2>
 <div align="center">
@@ -7,7 +6,7 @@
 </div>
 
 <p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
-  
+<img align="right" src="./images/tenor.gif">
 ```python
 from profile import kesiajo
 
@@ -37,7 +36,8 @@ if ___name__ == "main":
 - ⚡ Fun fact: ...
 
 <br>
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact">
+
   
 
