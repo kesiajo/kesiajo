@@ -7,7 +7,6 @@
 
 <p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
 <img align="right" src="./images/tenor.gif">
-<p align = "left">
 
 ``` python
 from profile import kesiajo
@@ -25,7 +24,7 @@ class Github():
 if ___name__ == "main":
   print "Coding is my passion"
 ``` 
-</p>
+
 
 
 
