@@ -13,11 +13,11 @@ from profile import kesiajo
 
 class Github():
 
-  def __init__ (self):
+  def __init__(self):
     self.first_name = 'Kesia'
     self.last_name  = 'Joies'
     
-  def imterests():
+  def imterests(self):
     self.interest1 = "App Development"
     self.interest2 = "Web Development"
     self.interest3 = "Coding, of course!"
