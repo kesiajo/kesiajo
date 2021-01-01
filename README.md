@@ -11,10 +11,18 @@
 ```python
 from profile import kesiajo
 
-if ___name__ == main:
-  print "Coding is my passion"
-  
+class Github():
 
+  def __init__ (self):
+    self.first_name = 'Kesia'
+    self.last_name  = 'Joies'
+    
+  def imterests():
+    se
+    
+
+if ___name__ == "main":
+  print "Coding is my passion"
 ```
 
 
@@ -29,9 +37,7 @@ if ___name__ == main:
 - ⚡ Fun fact: ...
 
 <br>
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true">
+  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesiajo&theme=radical&layout=compact)]
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=kesiajo&theme=jolly&show_icons=true&count_private=true)   
-
-![alt text](./images/bottom.png)
