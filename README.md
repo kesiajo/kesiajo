@@ -7,6 +7,7 @@
 
 <p align="center"> I'm Kesia, a tech enthusiast who loves exploring different technologies and learning them. </p>
 <img align="right" src="./images/tenor.gif">
+
 ```python
 from profile import kesiajo
 
