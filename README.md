@@ -5,7 +5,7 @@
 <a href= "mailto:kesiajoies@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kesiajoies@gmail.com"> </a>
 </div>
 <br>
-<p align="center"> I'm Kesia, a Mobile App Developer Enthusiast. <br> I love exploring and learning different technologies and I can work effectively in a team. I am currently passionated in participating in hackathons and competitions.</p>
+<p align="center"> I'm Kesia, a Mobile App Developer Enthusiast. <br> I love exploring and learning different technologies and I can work effectively in a team. I am currently passionate in participating in hackathons and competitions.</p>
 <img align="right" width="180" height="180" src="./images/tenor.gif">
 
 ``` python
